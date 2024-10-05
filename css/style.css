@@ -1,0 +1,26 @@
+/*common start*/
+body{
+	margin: 0;
+	padding: 0;
+}
+/*common end*/
+.container{
+	padding: 20px 0;
+}
+.box{
+	min-height: 100px;
+	margin-bottom: 10px;
+	background-color: darkred;
+}
+.text{
+	font-size: 30px;
+	font-weight: 500;
+	text-align: center;
+	text-transform: uppercase;
+}
+.white{
+	color: white;
+}
+.black{
+	color: black;
+}
